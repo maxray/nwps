@@ -1,0 +1,46 @@
+{% extends "layouts/base.html" %}
+
+{% set pageHeaderTitle = title %}
+
+{% block content %}
+
+<div class="grid">
+
+<div class="a1-b4">
+
+<div class="flex flex-asymmetrical">
+
+<div>
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
+</div><!-- one -->
+
+<div>
+{% if featureImage %}
+{{ featureImage | safe }}
+{% endif %}
+</div><!-- two -->
+
+</div><!-- flex -->
+
+<hr>
+
+{{ text2 | safe }}
+
+
+<div class="a5-a6 sidebar-container">
+{% include "partials/_sidebar.html" %}
+</div>
+
+</div><!-- grid-athens -->
+
+</div><!-- content -->
+
+{{ text3 | safe }}
+
+</div><!-- modular -->
+
+
+
+{% endblock %}

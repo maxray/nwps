@@ -1,0 +1,85 @@
+{
+    "items": [
+        {
+            "name": "Adam Stubbings",
+            "role": "Director and Principal",
+            "snippet": "Adam founded Compass Financial in 2009, having worked as a financial adviser for 13 years.",
+            "pic": "/images/adam-stubbings.png"
+        },
+        {
+            "name": "Tom Perry",
+            "role": "Managing Director",
+            "snippet": "Tom joined Compass Financial in March 2020, having spent 14 years in senior financial and operational roles.",
+            "pic": "/images/tom-perry.png"
+        },
+        {
+            "name": "Ceri Philipson",
+            "role": "Operations Manager",
+            "snippet": "Ceri joined Compass Financial in 2010 and as Operations Manager has responsibility for overseeing the day-to-day running of the company.",
+            "pic": "/images/ceri-philopson.png"
+        },
+        {
+            "name": "Marlena Masel",
+            "role": "Group Financial Controller",
+            "pic": "/images/marlena-masel.jpg"
+        },
+        {
+            "name": "Paul Nelson",
+            "role": "Senior Financial Adviser",
+            "pic": "/images/paul-nelson.png"
+        },
+        {
+            "name": "Andrew Winstanley",
+            "role": "Financial Adviser",
+            "pic": "/images/andrew-winstanley.jpg"
+        },
+        {
+            "name": "Keely Oldham",
+            "role": "Financial Adviser",
+            "pic": "/images/keely-oldham.jpeg"
+        },
+        {
+            "name": "Lyndsay Gray",
+            "role": "Financial Paraplanner"
+        },
+        {
+            "name": "Chris Shield",
+            "role": "Financial Adviser and Mortgage Protection Adviser"
+        },
+        {
+            "name": "Jack Lord",
+            "role": "Trainee Paraplanner",
+            "pic": "/images/jack-lord.jpeg"
+        },
+        {
+            "name": "Amy Gosse",
+            "role": "Financial Paraplanner",
+            "pic": "/images/amy-gosse.png"
+        },
+        {
+            "name": "Catriona Stafford",
+            "role": "Appointment Maker"
+        },
+        {
+            "name": "Bethan Jones",
+            "role": "Financial Parplanner",
+            "pic": "/images/bethan-jones.png"
+        },
+        {
+            "name": "Lois Hinchcliffe",
+            "role": "Trainee Parplanner"
+        },
+        {
+            "name": "Sion Williams",
+            "role": "Trainee Parplanner"
+        },
+        {
+            "name": "Lotty Evans",
+            "role": "Trainee Financial Parplanner"
+        },
+        {
+            "name": "Hue Selby",
+            "role": "Financial Administrator"
+        }
+    ]
+}

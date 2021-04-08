@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "text": "Charity Support",
+            "url": "/about/#charity-support"
+        },
+        {
+            "text": "Considerate Constructors Scheme",
+            "url": "/about/#considerate-constructors-scheme"
+        },
+        {
+            "text": "Jobs",
+            "url": "/jobs/"
+        },
+        {
+            "text": "News",
+            "url": "/news/"
+        },
+        {
+            "text": "Policies",
+            "url": "/policies/"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+@import 'blocks/team-list';
+
+@media only screen and (max-width: 768px) {
+    .team {
+        display:flex;
+        flex-direction:column;
+
+
+        .team-list {
+            order:2;
+        }
+    }
+
+}

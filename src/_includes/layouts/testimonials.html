@@ -1,0 +1,36 @@
+{% extends "layouts/base.html" %}
+{% set pageCriticalStyles = ['css/testimonials.css'] %}
+
+{% set pageHeaderTitle = title %}
+
+{% block content %}
+
+{% include "partials/inner-header.html" %}
+
+<article class="team grid">
+    <div class="left-big-inset flow">
+        <img src="{{ featureImage }}" alt="" class="contact-header" />
+        <ul class="team-list flow">
+            {% for item in testimonials.items %}
+
+
+            <li>
+                <div class="flow">
+                    <h4>{{ item.name }}</h4>
+                    <p class="team-role">{{ item.company }}</p>
+                    {{ item.testimonial | safe}}
+                </div>
+
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="right-small flow {{ brandColor }}">
+        {{ content | safe }}
+    </div>
+</article>
+
+{% set ctaContent = CTA %}
+{% include "partials/cta.html" %}
+
+{% endblock %}

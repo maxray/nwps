@@ -1,0 +1,28 @@
+li {
+    display: flex;
+    align-items: flex-start;
+
+    h4 {
+        font-size:1.5rem;
+    }
+
+    div {
+        --flow-space: .5rem;
+    }
+
+    .team-role {
+        color:var(--green-light);
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .team {
+        display:flex;
+        flex-direction:column;
+
+
+        .left-big-inset {
+            order:2;
+        }
+    }
+}

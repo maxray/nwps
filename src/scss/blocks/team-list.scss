@@ -1,0 +1,53 @@
+.team-list {
+
+    list-style:none;
+    margin:0;
+    padding:0;
+
+
+
+    li {
+        
+        display: flex;
+        align-items: flex-start;
+
+        h4 {
+            font-size:1.5rem;
+        }
+
+        div {
+            --flow-space: .5rem;
+        }
+
+        .team-role {
+            color:var(--green-light);
+        }
+        img {
+            margin-right: var(--spacing-medium);
+            border-radius:50%;
+            max-width:120px;
+        }
+        
+        
+    }
+     
+}
+
+.team-list-slim {
+    display:flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+
+    li {
+         h4 {
+            font-size:1.5rem;
+        }
+
+        .team-role {
+            color:var(--green-light);
+        }
+        width:50%;
+        margin-bottom:var(--spacing-medium);
+    }
+}
+
