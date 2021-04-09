@@ -9,36 +9,26 @@
 <div class="flex">
 	
 <div>
-<h1 class="display">Building confidence</h1>
+<h1 class="display">{{ title }}</h1>
 
-<p class="dropcap">For 22 years, we&#8217;ve worked with local and regional councils, housing associations, the NHS and emergency services. So you can be confident when choosing us. Our experienced team provides a professional service with me provides a professional service with meticulous planning and attention to detail. We deliver high-quality building projects on-time and within budget.</p>
+{{ content | safe }}
 </div><!-- one -->
 
 <div>
-{% include "partials/_img-public-buildings.html" %}
+{% if featureImage %}
+{{ featureImage | safe }}
+{% endif %}
 </div><!-- two -->
 	
 </div><!-- flex -->
 
 <hr>
 
-<h2>Building trust with professional services</h2>
-
-<div class="columns">
-<p>When we talk about honouring our commitments, we mean we do what we promise how and when we say we&#8217;ll do it. We&#8217;re easy and fun to work with, say &#8220;yes&#8221; to our clients, and offer outstanding customer service. Our customers need competitive prices as well as  flexibility and speed of response. Our ability to deliver is as important to us as setting a fair price which works for everyone. Our outstanding customer service benefits everyone. We often receive referrals from our regular clients and win new projects based on the value we offer.</p>
-
-<p>Our back-oﬃce team provide a reliable point of contact, take and relay messages to our site managers, and help resolve client queries quickly.
-
-</div><!-- columns -->
+{{ text2 | safe }}
 
 {% include "partials/_accreditations.html" %}
-<h2>Building communities, developing people</h2>
 
-<div class="columns">
-<p><img src="/images/logo-considerate-constructors.svg" alt="Considerate Constructors Scheme logo" class="shape-constructors"> We&#8217;ve been members of the <a href="/about.html#considerate-constructors-scheme">Considerate Constructors Scheme</a> since 2009. In 2012, we were presented with their Gold Award and in 2019, their Bronze for regularly performing beyond compliance.</p>
-
-<p>We work with a network of highly-skilled local tradespeople to extend our capabilities. Our reputation for paying our skilled contractors within 30 days encourages them to continue working with us. We&#8217;re an equal opportunity employer and are always looking to develop the skills of people in the areas where we work. We allow our employees to develop professionally as much as they&#8217;d like. Some employees have progressed to become construction, contracts, and site managers.</p>
-</div><!-- columns -->
+{{ text3 | safe }}
 
 </div>
 

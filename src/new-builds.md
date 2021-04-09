@@ -1,5 +1,5 @@
 ---
-title: 'New build homes sush'
+title: 'New build homes'
 layout: 'layouts/service.html'
 permalink: '/services/new-build-homes.html'
 featureImage: |

@@ -1,28 +1,82 @@
 ---
-title: 'Building confidence'
-metaDesc: 'For 22 years, we&#8217;ve worked with local and regional councils, housing associations, the NHS and emergency services. So you can be confident when choosing us. Our experienced team provides a professional service with meticulous planning and attention to detail. We deliver high-quality building projects on-time and within budget.'
-layout: 'layouts/home.html'
+title: 'Public Buildings'
+layout: 'layouts/service.html'
+permalink: '/services/public-buildings.html'
 featureImage: |
     <svg class="illustration" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 400"><path d="M451 305.828l-118.325 1.52s-14.285 10.231-27.501 11.384c-13.22 1.152-47.096 7.255-48.032 2.387-.937-4.864-3.368-21.725-5.057-22.029-1.687-.301-8.414.732-8.414.732s3.128 22.649 4.332 22.544c1.203-.105 6.707-3.284 6.707-3.284s-11.386-7.25-14.82-2.407c-3.436 4.844-3.52 10.737-7.951 11.66-4.432.92-14.318 6.334-13.727 3.07.59-3.264 5.436-10.91 4.833-14.067-.604-3.156 2.108-4.193-2.727-5.376-4.832-1.184-18.289-.547-14.709-5.935 3.58-5.386 10.77-2.005 16.101-3.27 5.333-1.265 8.743-3.696 13.322-3.827 4.576-.132 11.473-2.064 16.714-2.519 5.238-.455 36.344-9.824 39.845-11.727 3.499-1.902 4.926-2.027 7.729-2.536 2.804-.51 1.92-2.565 4.67-3.336 2.752-.772 2.854-.248 6.319-1.081 3.463-.833 1.78-2.02 7.89-4.147 6.109-2.127 17.352-7.625 28.176-15.212 10.816-7.58 35.013-12.061 42.561-9.26 7.55 2.8 10.41 6.273 10.664 9.972.252 3.7-4.912 12.928-9.138 15.957-4.227 3.03-8.055 4.426-12.152 6.913-4.097 2.488-6.74 3.784-12.43 8.01-5.691 4.227-17.612 12.467-23.775 14.338-6.165 1.872-25.95.925-17.44-3.821 8.505-4.741 28.131-.845 27.835-4.821-.298-3.974-16.784-11.606-7.567-12.673 9.214-1.066 26.656-2.048 31.599-5.14 4.943-3.091 13.071-5.926 15.799-10.42 2.728-4.492 7.692-8.644 8.312-14.014.619-5.367-1.53-28.267-3.588-34.98-2.06-6.711-2.348-6.95-4.352-13.396-2.005-6.443-6.408-17.698-6.253-16.917.155.778-.187 17.206-4.855 21.577-4.67 4.374-16.571 13.613-17.91 12.933-1.34-.68-7.065-8.933-6.91-8.15.153.781 4.139 9.978-.631 11.45-4.77 1.473-37.51 2.966-46.354 5.85-8.847 2.887-16.425 4.867-21.6 9.295-5.176 4.43-19.033 15.197-19.223 19.204-.192 4.008 6.666 24.456 10.423 23.865 3.756-.594-15.179-23.455-11.032-27.006 4.147-3.549 20.394-20.624 30.838-25.242 10.438-4.612 33.298-13.473 44.715-17.9 11.414-4.425 19.784-5.936 25.404-10.39 5.616-4.453 10.587-13.34 10.587-13.34s-9.766 11.417-20.943 12.112c-11.18.695-32.719.162-35.956-4.06-3.235-4.219-5.777-9.819-5.777-9.819s43.721 4.45 49.872 3.922c6.152-.526 20.38-5.183 27.598-12.405 7.21-7.217 7.068-12.747 6.004-16.874-1.066-4.128-2.423-6.122-2.423-6.122s-4.75 18.343-15.083 23.188c-10.338 4.848-30.57 10.81-43.48 6.364-12.907-4.442-22.294-8.13-25.58-16.299-3.284-8.163-8.476-17.477-6.74-25.793 1.735-8.31 11.985-19.702 13.3-20.34 1.316-.638 13.657-13.508 34.339-10.798 20.68 2.712 30.19 9.523 32.851 13.24 2.66 3.718-14.186-3.788-29.335-2.764-15.155 1.025-29.938 5.172-34.758 8.738-4.823 3.568-10.59 10.903-9.98 14.012.61 3.109 3.17 13.7 5.3 13.518 2.127-.182 16.915-15.409 30.073-18.11 13.15-2.698 30.423-1.536 36.079.35 5.657 1.888 7.478 6.209 9.374 3.678 1.894-2.532-7.911-18.01-4.903-16.16 3.005 1.849 6.833 10.204 7.027 15.979.194 5.777 1.548 18.577-9.414 25.054-10.97 6.482-34.68 16.7-45.253 13.115-10.573-3.588-17.941-1.9-24.462-14.282-6.516-12.37-10.47-17.833-7.62-24.136 2.85-6.298 6.674-13.73 6.674-13.73s-7.207-1.23-14.107 2.778c-6.904 4.009-11.279 13.6-10.267 18.784 1.012 5.187 5.763 20.879 9.5 23.993 3.738 3.114 14.449 9.862 14.449 9.862s-20.369 31.395-33.235 39.66c-12.877 8.274-24.888 18.606-25.132 13.58-.247-5.025 2.42-17.461 4.157-23.442 1.737-5.98 2.42-8.688 7.828-13.126 5.408-4.433 5.646-4.454 9.612-10.085 3.964-5.63 12.936-27.529 12.936-27.529s1.69 2.496 4.599 7.527c2.91 5.034 6.191 5.81 5.97 7.15-.219 1.34-1.807 10.465-5.58 19.517-3.777 9.061-9.504 18.033-11.098 19.762-1.594 1.726 33.414-28.818 30.305-23.79-3.11 5.03-15.447 19.595-20.426 23.734-4.984 4.14-16.462 9.64-17.278 12.893-.817 3.256-2.739 9.53-1.975 9.729.763.2 6.684-1.638 9.704-3.492 3.02-1.853 20.867-14.27 26.27-18.711 5.399-4.442 11.92-16.655 11.92-16.655s-4.61-7.543-6.592-10.282c-1.982-2.739-5.268-7.217-7.449-7.295-2.183-.077-15.781-17.931-17.135-23.621-1.352-5.688-2.465-11.393-4.036-12.05-1.57-.656-16.58 3.787-25.171 6.626-8.594 2.843-17.178 7.006-25.341 10.87-8.167 3.865-28.809 14.348-28.885 16.47-.075 2.122.347 11.874 3.518 15.838 3.174 3.965 6.699 4.722 5.611 5.345-1.087.623-8.812 3.139-9.874 1.377-1.06-1.763-8.063-14.4-7.227-16.324.84-1.924 7.984-4.916 6.385-3.193-1.599 1.724-5.886 5.795-10.633 6.203-4.749.406-10.507-.69-12.248 1.577-1.74 2.266-4.36 7.52-7.776 8.61-3.416 1.086-17.778 8.149-12.349 8.741 5.427.596 22.409-5.366 23.758-3.362 1.347 2.006-11.02 1.74-8.622 4.186 2.397 2.445 7.35 3.081 11.103 2.492 3.752-.586 6.492-2.677 9.945-4.829 3.452-2.15 8.828-6.85 8.828-6.85s8.81 1.894 13.034 1.266c4.222-.627 22.462-9.868 27.767-11.115 5.302-1.249 8.83-4.196 14.705-4.963 5.876-.766 15.138-3.94 15.138-3.94s-30.455-7.966-21.773-7.916c8.68.051 15.327 4.502 13.435.965-1.89-3.536-9.29-11.881-3.51-8.15 5.78 3.73 6.232 9.767 9.719 7.883 3.486-1.882 2.933-8.436 3.943-3.242 1.013 5.196-1.87 17.605-6.818 20.673-4.947 3.07-18.984 21.492-19.975 26.35-.992 4.86-.667 12.795-.667 12.795s3.769 9.502 7.518 8.912c3.752-.59 6.829-5.901 7.42-4.092.592 1.809 4.114 10.007 2.11 9.648-2.001-.36-4.387-5.202-5.323-3.792-.934 1.409-.555 9.618-1.32 9.417-.762-.2 1.408 14.78 2.154 17.378.744 2.599-25.453 21.133-19.412 19.808 6.041-1.323 20.956-18.078 19.812-13.981-1.144 4.095-8.194 12.706-7.647 10.525.547-2.181 2.964-3.457.547-2.181-2.416 1.276-19.865 9.995-19.404 8.62.465-1.374 23.315-45.964 22.535-47.491-.778-1.526-43.028-40.345-43.028-40.345s-13.305-15.274-16.263-21.897c-2.954-6.621-36.236-43.37-38.121-48.215-1.884-4.845-146.934 65.757-146.934 65.757s-1.915-8.445-4.777-10.848c-3.88-3.262-8.849-1.021-3.727-3.165 15.85-6.634 116.5-50.02 116.5-50.02s.25 19.23 4.927 14.61c4.67-4.618 6.12-16.074 5.49-18.127-.627-2.054-6.021-7.653-10.387-7.81-4.365-.156-14.166 13.054-14.166 13.054s15.208-21.562 16.428-24.032c1.219-2.47 5.76-3.905 9.329-1.577 3.57 2.326 7.483 6.466 7.353 8.32-.13 1.851-6.643 14.517-4.868 9.887 1.773-4.626 5.905-10.765 9.165-12.62 3.259-1.854 4.71-4.343 7.02-6.116 2.308-1.773 7.38-1.675 9.392-5 2.013-3.322 7.848-8.018 4.507-11.674-3.342-3.655-19.419-14.891-13.193-11.218 6.225 3.671 8.816 8.437 8.463 5.32-.356-3.12-1.054-8.044.561-7.13 1.617.912 4.63 5.379 4.918 11.914.286 6.54-.938 7.695-1.784 14.597-.849 6.907-3.238 17.106-2.301 22.029.938 4.924 14.156 21.197 17.744 24.847 3.59 3.654 8.326-3.082 9.11-.246.781 2.835-.298 9.79 4.032 11.006 4.329 1.213 13.888 8.324 17.258 8.3 3.37-.024-8.142 7.832-9.014 5.791-.874-2.04-3.606-4.977 1.237-4.862 4.845.114 18.595-6.08 20.578-7.042 1.984-.96 6.993-7.46 11.352-12.317 4.357-4.856 7.953-9.907 10.039-14.036 2.087-4.13 21.327.82 17.495-2.806-3.83-3.624-10.776-2.244-5.873-4.24 4.9-1.996 10.936-8.036 7.254-7.196-3.682.839-18.675 15.279-15.607 10.013 3.069-5.264 5.883-11.818 8.986-21.813 3.102-9.983 6.74-18.43 11.278-22.225 4.539-3.794 8.062-5.403 8.972-4.43.91.971 1.124 10.661 2.03 18.987.908 8.33 3.185 12.607.16 20.492-3.026 7.89-14.58 23.894-12.211 20 2.37-3.89 11.092-10.955 9.999-19.023-1.093-8.062-8.299-9.291-8.331-11.918-.03-2.626 5.137-9.369 5.496-14.915.357-5.542 3.985-10.31-.057-16.262-4.04-5.95-5.874-9.201-11.26-13.463-5.385-4.26-11.664-8.18-11.664-8.18s-21.15 23.267-37.81 21.525c-16.663-1.74-30.771-20.205-31.083-29.338-.312-9.128 10.511-35.104 10.66-34.334.149.77-4.664 19.838.145 29.887 4.814 10.058 14.398 16.984 24.387 19.025 9.992 2.039 27.262-4.13 31.651-8.685 4.385-4.557 10.816-15.816 11.969-22.182 1.15-6.364-.995-12.447-.995-12.447s-1.426 11.083-3.808 17.291c-2.383 6.211-5.866 15.397-13.634 17.358-7.772 1.961-27.73 4.166-25.956-2.79 1.61-6.308 27.834-40.262 31.42-50.072 2.672-7.31 9.626 20.668 9.462 12.685-.11-5.464-4.998-17.04-10.972-20.708-5.975-3.667-12.49-5.205-15.633-4.163-3.144 1.043-27.283 47.351-27.671 43.774C213.025 33.257 237.015-.192 233.62 0c-3.542.204-10.21 1.209-16.88 5.208-8.577 5.143-14.162 18.381-15.094 19.763-.93 1.382-8.062 11.634-8.818 11.438-.757-.199-5.013-1.147-6.85-.732-1.839.414-7.489 8.462-11.726 16.397-4.239 7.942-3.906 33.584-3.541 31.716.363-1.865 3.238-28.29 6.934-32.785 3.698-4.492 8.638-12.482 8.638-12.482s-1.584-3.262-7.226-.179c-5.642 3.084-14.861 21.374-16.673 25.715-1.815 4.34-2.217 7.255-5.41 10.667-3.196 3.413-10.492 9.271-12.978 12.626-2.49 3.359-15.77 24.704-10.99 23.247 4.777-1.456 7.423-10.347 9.196-7.345 1.77 3.002 8.56 12.152 8.948 6.6.39-5.55-2.193-16.621 2.744-14.677 4.939 1.947 2.915 3.954 8.97 2.92 6.053-1.038 9.206-15.993 10.93-13.254 1.725 2.739 3.885 12.79 5.384 16.862 1.5 4.076 16.174 20.443 26.508 26.672 10.34 6.228 18.849 9.191 26.387 9.605 7.537.412 21.281-3.126 20.463.103-.816 3.23-7.222 11.151-12.618 11.875-5.396.723-29.776-5.9-34.885-9.944-5.107-4.044-13.64-9.637-19.949-16.207-6.306-6.567-10.578-13.829-11.366-11.66-.79 2.17-3.404 7.387-.946 12.703 2.458 5.318 5.362 12.97 13.944 18.828 8.585 5.859 17.56 12.478 24.119 14.03 6.56 1.553 27.249 2.691 25.992 4.909-1.26 2.218-4.199 6.957-11.608 6.006-7.412-.952-6.177-.793-19.138-6.815-12.957-6.02-17.591-10.11-23.412-14.097-5.817-3.986-16.412-19.152-12.02-15.05 4.394 4.106 7.624 10.944 12.771 13.933 5.145 2.989 10.129 8.894 12.862 6.815 2.733-2.08 2.933-1.042 3.91-8.506.98-7.458 2.051-9.393 2.49-13.38.438-3.983.652-6.632.281-11.074-.37-4.438-6.596-45.634-3.644-37.76 2.955 7.88.69 41.168 7.157 38.516 6.462-2.651 13.795-8.268 19.743-14.813 5.942-6.54 9.137-8.648 14.38-13.813 5.238-5.163 17.102-21.88 17.231-18.75.129 3.131-17.21 16.388-9.59 17.318 7.622.93 31.411-5.011 21.363.032-10.056 5.046-37.825 12.905-26.047 12.96 11.777.052 23.758-2.534 16.396 2.814-7.366 5.35-15.367 4.977-12.203 8.914 3.167 3.937 5.978 27.12 2.716 36.357-3.267 9.245-38.064 31.231-47.425 25.16-9.357-6.071-34.284-50.878-39.832-50.935-5.545-.055-20.212 5.136-16.413 6.13 3.802.995 19.72-1.409 20.074 1.72.354 3.13-148.15 75.832-148.533 73.743-.945-5.146-1.285-9.274-3.676-12.43-3.185-4.207-8.531-4.39-8.92-.335-.332 3.472 2.201 8.57 5.829 13.83 3.628 5.259 46.936 45.65 71.655 69.093 24.76 23.478 24.849 42.188 39.406 62.88 14.58 20.726 37.32 46.344 48.256 47.534 12.142.516 20.776-8.544 10.887-13.524-4.942-2.489-11.442-1.401-7.154-5.818 5.7-5.871 79.574-119.155 81-119.278 1.425-.124 5.198-3.106 6.109 1.6.909 4.707-23.237 45.166-23.237 45.166s3.548 10.905 4.556 16.162c1.012 5.26 1.992 7.846.864 9.55-1.127 1.704-4.788 7.909-12.598 10.198-7.814 2.287-12.336-1.066-14.02 2.828-1.684 3.898-27.05 46.916-27.05 46.916s-9.413 9.435-16.978 10.64C165.7 394.258-514 393.58-514 393.58" stroke="#FA6E34" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linejoin="round"/></svg>
-
 text2: |
-    <h2>Building trust with professional services</h2>
-
     <div class="columns">
-    <p>When we talk about honouring our commitments, we mean we do what we promise. We&#8217;re easy and fun to work with, say &#8220;yes&#8221; to our clients, and offer outstanding customer service. Our customers need competitive prices as well as flexibility and speed of response and our ability to deliver is as important as setting a fair price. That&#8217;s why we often receive referrals from regular clients and win new projects because of the value we offer.</p>
 
-    <p>Our back-oﬃce team provide a reliable point of contact, take and relay messages to our site managers, and help resolve client queries quickly.
+    <p>We&#8217;ve carried out refurbishment work at schools throughout Denbighshire, both during shutdown periods and during term time. This work has included new ceilings, cubicles, and panelling, as well as electrics, heating, sanitary ware, and full strip-out and redecorations.</p>
+
+    <p>Our site managers work closely with a council Clerk of Works and school staff to ensure we can deliver projects with minimal disruption. We won a Considerate Contractors Scheme gold award for consistently performing above compliance levels.</p>
 
     </div><!-- columns -->
+
+    <blockquote>
+    <p>&#8220;NWPS Construction have provided excellent support in all aspects of their building projects. They&#8217;re dependable and are great communicators who deliver a very high stand of work.&#8221;</p>
+    <cite>Building Surveyor, Flintshire County Council</cite>
+    </blockquote>
+
+    <h2>Blue light services</h2>
+
+    <div class="columns">
+
+    <p>Construction work in emergency services stations requires special consideration and expertise. Our work has included full station refurbishments, reconfigurations, and kitchen replacements for several blue light services across North Wales.</p>
+
+    <p>These have included ambulance, fire, and police stations from Bangor to Buckley, Prestatyn to Porthmadog, and from the England border all the way to Holyhead. Our work has included carpentry and joinery, electrical work, heating, partitions and suspended ceilings, painting and decorating, and plasterwork.</p> 
+
+    </div><!-- columns -->
+
+    <h2>Our proven track record</h2>
+
+    <div class="columns">
+
+    <p>We&#8217;re committed to delivering the highest standards of work with minimal disruption. We won a Considerate Contractors Scheme gold award and consistently perform above compliance. This is supported by our other accreditations including C.H.A.S., ISO9001 Quality Management, 14001 Environmental Management, and Silver Constructionline accreditations.</p>
+
+    <p>We believe that community projects need community engagement to be successful. We have experience of working busy environments and we understand how to minimise disruption. We frequently liaise with clients, facilities management teams, staff, and other affected parties to reduce the impact of our working onsite.</p>
+
+    </div><!-- columns -->
+
+    <blockquote>
+    <p>&#8220;I&#8217;ve been working with NWPS Construction for years on police refurbishment projects. Not only has their work always been delivered on time and within budget, they&#8217;ve always been considerate to the demands of working in live environments.&#8221;</p>
+    <cite>North Wales Police</cite>
+    </blockquote>
+
+    </div>
 text3: |
-    <h2>Building communities, developing people</h2>
+    <div class="gallery" data-theme="dark">
+    <div class="modular-1">
 
-    <div class="columns">
-    <p><img src="/images/logo-considerate-constructors.svg" alt="Considerate Constructors Scheme logo" class="shape-constructors"> We&#8217;ve been members of the <a href="/about.html#considerate-constructors-scheme">Considerate Constructors Scheme</a> since 2009. In 2012, we were presented with their Gold Award and in 2019, their Bronze for regularly performing beyond compliance.</p>
+    <div>
+    <img src="https://res.cloudinary.com/nwps-construction/image/upload/f_auto/v1617878862/website/st-asaph-library-1_mxu7sh.jpg" alt="St. Asaph Library">
+    </div><!-- nth-of-type(1) -->
 
-    <p>We work with a network of highly-skilled local tradespeople to extend our capabilities. Our reputation for paying our skilled contractors within 30 days encourages them to continue working with us. We&#8217;re an equal opportunity employer and are always looking to develop the skills of people in the areas where we work. We allow our employees to develop professionally as much as they&#8217;d like. Some employees have progressed to become construction, contracts, and site managers.</p>
-    </div><!-- columns -->
+    <div>
+    <h3>St. Asaph library</h3>
+    <p class="secondary">At St. Asaph Library, our objective was to provide a sustainable future-proofed building which would continue to be an important community hub for local people. The contract value was &#163;287,000.</p>
+
+    </div><!-- nth-of-type(2) -->
+
+    <div>
+    <img src="https://res.cloudinary.com/nwps-construction/image/upload/f_auto/v1617878862/website/ruthin-jail-1_ujkd2k.jpg" alt="Ruthin Jail">
+    </div><!-- nth-of-type(3) -->
+
+    <div>
+    <h3>Schools</h3>
+    <p class="secondary">We&#8217;ve carried out work at schools throughout North Wales including new ceilings, cubicles, and panelling, as well as electrics, heating, sanitary ware, and full strip-out and redecorations.</p>
+
+    </div><!-- nth-of-type(4) -->
+
+    <div>
+    <img src="https://res.cloudinary.com/nwps-construction/image/upload/f_auto/v1617878861/website/christchurch-1_pebwyo.jpg" alt="Christchurch School">
+    </div><!-- nth-of-type(5) -->
+
+    <div>
+    <img src="https://res.cloudinary.com/nwps-construction/image/upload/f_auto/v1617878862/website/christchurch-2_f3xphb.jpg" alt="Christchurch School">
+    </div><!-- nth-of-type(6) -->
+
 
 ---
 
-<p class="dropcap">For 22 years, we&#8217;ve worked with local and regional councils, housing associations, the NHS and emergency services. So you can be confident when choosing us. Our experienced team provides a professional service with meticulous planning and attention to detail. We deliver high-quality building projects on-time and within budget.</p>
+<p class="dropcap">For Denbighshire County Council, we&#8217;ve carried out numerous refurbishment projects at schools throughout Denbighshire. We&#8217;ve also built an extension to the public library in St. Asaph and delivered refurbishments for several blue light services across North Wales.</p>

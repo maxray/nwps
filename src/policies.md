@@ -1,57 +1,68 @@
 ---
-title: 'Compass Financial - Privacy Policy'
-layout: 'layouts/page-default.html'
+title: 'Our policies'
+layout: 'layouts/page.html'
 permalink: '/policies/index.html'
 ---
 
-At Compass Financial (UK) Limited we are committed to safeguarding and preserving the privacy of our visitors.
+<p class="secondary"><a href="#environmental">Environmental</a> | 
+<a href="#equal-opportunities">Equal opportunities</a> | 
+<a href="#health-and-safety">Health and safety</a> | 
+<a href="#privacy">Privacy (GDPR)</a></p>
 
-This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
+<h2 id="environmental">Environmental</h2>
 
-We do update this Policy from time to time so please do review this Policy regularly.
+<p class="secondary">We&#8217;re committed to protecting the environment and ensuring the environmental impact from operations is kept to a minimum. We comply with environmental legislation and set higher standards through dedicated training and adopting recognised best practice.</p>
+	
+<p class="secondary">We place particular emphasis on the prevention of pollution, the protection of wildlife, habitats and controlled waters. We always strive to minimise the effects of noise, dust, disturbance, and inconvenience during the course of our operations. We actively promote sustainable materials and effective fuel and waste management principles.</p>
 
-### Information That We Collect
-In running and maintaining our website we may collect and process the following data about you:
+<hr>
 
-Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
+<h2 id="health-and-safety">Health and safety</h2>
 
-Information provided voluntarily by you. For example, when you register for information or make a purchase.
+<p class="secondary">We take steps to ensure the health and safety of everyone who may be affected by our activities.</p>
 
-Information that you provide when you communicate with us by any means.
+<ul class="secondary">
+<li>A healthy and safe working environment for our employees</li>
+<li>Equipment that&#8217;s suitable and without risks for use at work</li>
+<li>Information, instruction, supervision, and training to employees</li>
+<li>Effective communication on issues concerning health and safety</li>
+<li>Monitor implementation and effectiveness of the policy to maintain high standards</li>
+<li>Review the policy annually</li>
+<li>Get health and safety advice from our advisors</li>
+</ul>
 
-### Use of Your Information
+<hr>
 
-We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
+<h2 id="equal-opportunities">Equal opportunities</h2>
 
-To provide information to you that you request from us relating to our products or services.
-To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-To inform you of any changes to our website, services or goods and products.
-If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+<p class="secondary">We&#8217;re an equal opportunity employer. We ensure no applicant or employee receives less favourable treatment on the grounds of sex or marital status, race, colour, nationality or ethnic or national origins, or is disadvantaged by conditions or requirements which cannot be shown to be justifiable. We will review selection criteria often to ensure individuals are selected, promoted, and treated on the basis of their relevant merits and abilities. We&#8217;re committed to making this policy fully effective and our Managing Director is responsible for its implementation.</p>
 
-We never give your details to third parties to use your data to enable them to provide you with information regarding unrelated goods or services.
+<hr>
 
-### Storing Your Personal Data
+<h2 id="privacy">Privacy (GDPR)</h2>
 
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing and processing. We do our utmost to ensure that all reasonable steps are taken to make sure that your data is stored securely.
+<div>
+<p class="secondary">We respect your privacy and this policy explains how we collect and treat any information you give us. We value your privacy as much as we do our own, so we&#8217;re committed to keeping your information safe. We&#8217;ll never use your information for any reason other than why you gave it, and we&#8217;ll never give anyone access to it unless we&#8217;re forced to by law.</p>
+</div>
 
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
+<div>
+<h3>How we collect information</h3>
 
-### Disclosing Your Information
+<p class="secondary">Our website doesn&#8217;t use cookies or scripts that were designed to track the websites you visit. We don&#8217;t use Google Analytics or native social media like or sharing buttons which also build profiles of your internet activity.</p>
+</div>
 
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
+<div>
+<h3>What information we hold</h3>
 
-In the event that we sell any or all of our business to the buyer.
-Where we are legally required by law to disclose your personal information.
-To further fraud protection and reduce the risk of fraud.
-Third Party Links
-On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site's policy towards visitor privacy.
+<p class="secondary">When you contact us by email or through our website, we collect your name, email address, phone number, and the company you work for.</p>
+</div>
 
-You should review their privacy policy before sending them any personal data.
+<div>
+<h3>Who&#8217;s responsible for your information</h3>
 
-### Access to Information
+<p class="secondary">Matt Hughes, our Director of Operations, is responsible for the security of your information. You can contact him if you have any concerns about the information we store. We take complaints very seriously. If you&#8217;ve any reason to complain about the ways we handle your privacy, please contact Matt by email or by phone.</p>
+</div>
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information.
+<hr>
 
-### Contacting Us
-
-Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at admin@compassfin.co.uk
+<p class="secondary">If we change the contents of this policy, those changes will become effective the moment we publish them on our website. Our privacy policy is based on <a href="https://stuffandnonsense.co.uk/projects/protection-racket">(Data) Protection Racket</a> the GDPR privacy policy template.</p>
