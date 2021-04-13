@@ -19,6 +19,8 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
       - name: "about"
         label: "About"
         delete: false
