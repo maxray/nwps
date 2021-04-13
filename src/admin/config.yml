@@ -32,6 +32,7 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
       - name: "new build homes"
         label: "New build homes"
         delete: false
