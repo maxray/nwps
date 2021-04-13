@@ -72,6 +72,71 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Text2", name: "text2", widget: "markdown"}
           - {label: "Text3", name: "text3", widget: "markdown"}
+      - name: "planned maintenance"
+        label: "Planned Maintenance"
+        delete: false
+        file: "src/planned-maintenance.md"
+        slug: "{{slug}}"
+        create: false
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/service.html"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
+      - name: "schools"
+        label: "Schools"
+        delete: false
+        file: "src/schools.md"
+        slug: "{{slug}}"
+        create: false
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/service.html"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
+      - name: "disaster recovery"
+        label: "Disaster Recovery"
+        delete: false
+        file: "src/disaster-recovery.md"
+        slug: "{{slug}}"
+        create: false
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/service.html"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
+      - name: "large scale insurance"
+        label: "Large Scale Insurance"
+        delete: false
+        file: "src/large-scale-insurance.md"
+        slug: "{{slug}}"
+        create: false
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/service.html"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
+      - name: "new homes"
+        label: "New Homes"
+        delete: false
+        file: "src/new-homes.md"
+        slug: "{{slug}}"
+        create: false
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/service.html"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Text2", name: "text2", widget: "markdown"}
+          - {label: "Text3", name: "text3", widget: "markdown"}
   - name: "posts"
     label: "Posts"
     folder: "src/posts"
