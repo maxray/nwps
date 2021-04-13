@@ -1,5 +1,6 @@
 ---
 title: 'About us'
+metaDesc: 'For 22 years, we&#8217;ve worked with local and regional councils, housing associations, the NHS and emergency services. So you can be confident when choosing us. Our experienced team provides a professional service with meticulous planning and attention to detail. We deliver high-quality building projects on-time and within budget.'
 layout: 'layouts/about.html'
 featureImage: |
     <svg class="illustration" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 771 361">
