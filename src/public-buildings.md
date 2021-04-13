@@ -1,5 +1,10 @@
 ---
 title: 'Public Buildings'
+order: 3
+tags: service
+intro: |
+    <p class="secondary">For Denbighshire County Council, we&#8217;ve carried out numerous refurbishment projects at schools throughout Denbighshire. We&#8217;ve also built an extension to the public library in St. Asaph and delivered refurbishments for several blue light services across North Wales.</p>
+
 layout: 'layouts/service.html'
 permalink: '/services/public-buildings.html'
 featureImage: |

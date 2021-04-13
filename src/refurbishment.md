@@ -1,5 +1,10 @@
 ---
 title: 'Refurbishment'
+order: 2
+tags: service
+intro: |
+    <p class="secondary">We regularly refurbish properties for housing associations and local authorities throughout North Wales and the surrounding areas. Our clients are always satisfied with our performance and high quality workmanship.</p>
+
 layout: 'layouts/service.html'
 permalink: '/services/refurbishment.html'
 featureImage: |

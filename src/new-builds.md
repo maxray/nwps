@@ -1,5 +1,10 @@
 ---
 title: 'New build homes'
+order: 1
+tags: service
+intro: |
+    <p>We specialise in new build construction projects for housing associations and local authorities throughout North Wales and the surrounding areas. We&#8217;ve developed a highly successful framework for new build projects which is responsive to the needs and priorities of local communities. We recently completed a successful project for one of our clients&#8212;Clwyd Alyn Housing Association&#8212;where we built twelve apartments in Rhyl.</p>
+
 layout: 'layouts/service.html'
 permalink: '/services/new-build-homes.html'
 featureImage: |

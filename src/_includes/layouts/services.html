@@ -7,68 +7,33 @@
 <div class="services">
 	
 <div class="services__intro">
-	
-<div>{% include "partials/_img-1.html" %}</div>
+
+{% if featureImage %}
+<div>{{ featureImage | safe }}</div>
+{% endif %}
 
 <div>
-<h1 class="display">Professional services</h1>
-<p>For 22 years, we have worked with local and regional councils, housing associations, the NHS and emergency services. So you can be confident when choosing us.</p>
+<h1 class="display">{{ title }}</h1>
+{{ content | safe }}
 </div>
 	
 </div><!-- nth-child(1) services__intro -->
 	
+
+
+{%- for post in collections.services -%}
 <div>
 
-<div>{% include "partials/_img-new-builds.html" %}</div>
+<div>{{ post.data.featureImage | safe }}</div>
 
 <div>
-<h2 class="alt"><a href="/services/new-build-homes.html">New builds</a></h2>
-<p>We specialise in new build construction projects for housing associations and local authorities throughout North Wales and the surrounding areas. We&#8217;ve developed a highly successful framework for new build projects which is responsive to the needs and priorities of local communities. We recently completed a successful project for one of our clients&#8212;Clwyd Alyn Housing Association&#8212;where we built twelve apartments in Rhyl.</p>
+<h2 class="alt"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h2>
+{{ post.data.intro | safe }}
 </div>
+</div>
+  
+{%- endfor -%}
 
-</div><!-- nth-child(2) -->
-
-<div>
-<div>{% include "partials/_img-refurbishment.html" %}</div>
-<h2><a href="/refurbishment.html">Building refurbishment</a></h2>
-<p class="secondary">We regularly refurbish properties for housing associations and local authorities throughout North Wales and the surrounding areas. Our clients are always satisfied with our performance and high quality workmanship.</p>
-</div><!-- nth-child(3) -->
-
-<div>
-<div>{% include "partials/_img-public-buildings.html" %}</div>
-<h2><a href="/public-buildings.html">Public buildings</a></h2>
-<p class="secondary">For Denbighshire County Council, we&#8217;ve carried out numerous refurbishment projects at schools throughout Denbighshire. We&#8217;ve also built an extension to the public library in St. Asaph and delivered refurbishments for several blue light services across North Wales.</p>
-</div><!-- nth-child(4) -->
-
-<div>
-<div>{% include "partials/_img-maintenance.html" %}</div>
-<h2 class="alt"><a href="/planned-maintenance.html">Planned maintenance</a></h2>
-<p>Flintshire County Council is one of our regular clients and our original framework appointment was way back in 1999. We&#8221;re also incredibly proud of the positive feedback we&#8217;ve received from Denbighshire County Council and w&#8217;ve been delivering projects for them since our appointment as a preferred supplier in 2002. In 2018, we were appointed to their framework by Wrexham County Borough Council and now work on planned repairs and maintenance to their housing stock.</p>
-</div><!-- nth-child(5) -->
-	
-<div>
-<div>{% include "partials/_img-1.html" %}</div>
-<h2>Schools</h2>
-<p class="secondary">We&#8217;ve carried out refurbishment work at schools throughout North Wales, both during shutdown periods and during term time. Our site managers work closely with a council Clerk of Works and school staff to ensure we can deliver projects with minimal disruption.</p>
-</div><!-- nth-child(6) -->
-
-<div>
-<div>{% include "partials/_img-1.html" %}</div>
-<h2>Disaster recovery</h2>
-<p class="secondary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-</div><!-- nth-child(7) -->
-
-<div>
-<div>{% include "partials/_img-1.html" %}</div>
-<h2 class="alt">Large-scale insurance</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-</div><!-- nth-child(8) -->
-
-<div>
-<div>{% include "partials/_img-1.html" %}</div>
-<h2><a href="/new-homes.html">Creating new homes</a></h2>
-<p class="secondary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-</div><!-- nth-child(9) -->
 	
 </div><!-- services -->
 {% endblock %}

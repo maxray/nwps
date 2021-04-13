@@ -1,5 +1,10 @@
 ---
 title: 'Planned Maintenance'
+order: 4
+tags: service
+intro: |
+    <p>Flintshire County Council is one of our regular clients and our original framework appointment was way back in 1999. We&#8221;re also incredibly proud of the positive feedback we&#8217;ve received from Denbighshire County Council and w&#8217;ve been delivering projects for them since our appointment as a preferred supplier in 2002. In 2018, we were appointed to their framework by Wrexham County Borough Council and now work on planned repairs and maintenance to their housing stock.</p>
+
 layout: 'layouts/service.html'
 permalink: '/services/planned-maintenance.html'
 featureImage: |
